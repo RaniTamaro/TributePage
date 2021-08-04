@@ -1,0 +1,46 @@
+#main {
+    background-color: #8D809D;
+    border-radius: 15px;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-item {
+    height: 40px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p, h3, li {
+    font-size: 20px;
+}
+
+#im-div
+{
+    margin: auto;
+    background-color: #B6AEC2;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    align-items: center;
+}
+
+#image {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    margin: 40px;
+}
+
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
